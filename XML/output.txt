@@ -1,0 +1,9 @@
+<results>
+<Outfielder>4050024</Outfielder>
+<First Baseman>3591402</First Baseman>
+<Shortstop>2953382</Shortstop>
+<Third Baseman>2461333</Third Baseman>
+<Pitcher>2135130</Pitcher>
+<Second Baseman>1307750</Second Baseman>
+<Catcher>1172669</Catcher>
+</results>

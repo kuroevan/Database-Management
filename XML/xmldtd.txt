@@ -1,0 +1,6 @@
+<!DOCTYPE baseball [
+<!ELEMENT Team ( #PCDATA )>
+<!ELEMENT Player ( #PCDATA )>
+<!ELEMENT Salary ( #PCDATA )>
+<!ELEMENT Position ( #PCDATA )>
+] >
