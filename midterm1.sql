@@ -1,0 +1,2 @@
+select TourneyID, TourneyLocation
+from tournaments
